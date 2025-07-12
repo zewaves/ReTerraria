@@ -1,0 +1,22 @@
+[h1] ReTerraria [/h1]
+
+[h2] Current Features [/h2]
+[list]
+   	[*]Altered Pillar Weapon Crafting Recipes to include iconic weapons from Pre-Hardmode
+[/list]
+
+
+[spoiler] 
+[list]
+	[*]Daybreak requires Dark Lance
+	[*]Solar Eruption requires Sunfury
+	[*]Phantasm requires Hellwing Bow
+	[*]Vortex Beater requires Phoenix Blaster
+	[*]Nebula Arcanum requires Water Bolt
+	[*]Nebula Blaze requires Flamelash
+	[*]Stardust Cell Staff requires Imp Staff
+	[*]Stardust Dragon Staff requires Abigail's Flower
+[/list]
+[/spoiler] 
+
+[i] The mod is still WIP [/i] 

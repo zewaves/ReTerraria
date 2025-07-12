@@ -1,0 +1,3 @@
+displayName = ReTerraria
+author = zewaves
+version = 0.2
