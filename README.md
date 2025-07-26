@@ -1,6 +1,6 @@
 # ReTerraria Mod for TmodLoader
 
-> Reworking basic mechanics in Terraria for a refreshing experience.
+Reworking basic mechanics in Terraria for a refreshing experience.
 
 ## Features
 
