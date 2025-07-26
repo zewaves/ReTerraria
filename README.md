@@ -10,5 +10,3 @@ Reworking basic mechanics in Terraria for a refreshing experience.
 
 * Expanded enemy drop tables.
 * Introduce non-linear progression paths.
-
-You are welcome to use this code in your work.
