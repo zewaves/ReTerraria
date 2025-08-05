@@ -10,3 +10,7 @@ Reworking basic mechanics in Terraria for a refreshing experience.
 
 * Expanded enemy drop tables.
 * Introduce non-linear progression paths.
+
+## Download
+
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3523653747)
