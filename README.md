@@ -14,6 +14,6 @@ Reworking basic mechanics in Terraria for a refreshing experience.
 ## Download
 
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3523653747">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam Logo" width="20" style="vertical-align:middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Steam Logo" width="20" style="margin-right : 6px/>
   Steam Workshop
 </a>
